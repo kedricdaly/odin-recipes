@@ -8,4 +8,11 @@ to demonstrate basic HTML.
 This project will demonstrate a basic knowledge of HTML
 , namely linking different HTML pages
 
+* Directory structure and relative paths
+* Title elements
+* Image linking
+* Anchors (links)
+* Different headers
+* Lists (ordered and unordered)
+
 
